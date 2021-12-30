@@ -1,0 +1,13 @@
+body {
+    padding-left: 50px;
+    width: 50%;
+}
+button {
+    cursor: pointer;
+}
+p {
+    font-size: 19px;
+}
+.capt1 {
+    border-bottom: 2px solid black;
+}
